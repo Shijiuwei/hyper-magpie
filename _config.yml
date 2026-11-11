@@ -1,0 +1,5 @@
+title: "hyper-magpie"
+description: "High availability  and network topology specifications for yetone/magpie - Modular design, zero-copy data pipelines and resilient clustering."
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
